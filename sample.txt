@@ -1,5 +1,2 @@
-Git commands everyone can understand
-
-something change
-thats it..
-done
+if a>b
+then puts a 
