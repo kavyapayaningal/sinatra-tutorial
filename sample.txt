@@ -1,2 +1,5 @@
 if a>b
 then puts a 
+
+if a<b then
+puts b
